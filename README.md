@@ -43,7 +43,7 @@ Download the folder modified-gym-env from [pybullet-gym-env](https://github.com/
 
 ## How to Run
 
-There are 3 methods you can try, namely policy gradients, ddpg, and td3, with corresponding file name.
+There are 3 methods you can try, namely *policy gradients*, *ddpg*, and *td3*, with corresponding file name.
 
 ex. if you want to try policy gradients, just do
 ```
